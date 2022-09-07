@@ -76,5 +76,5 @@ To run all tests, run the following command
   pytest
 ```
 
-After execution ends you can get your file from the reports folder which will have an HTML format generated report with an analysis of the execution attached with any screenshots taken on failure
+After execution ends you can get an HTML report from the reports folder which will give you a rundown of the last execution attached with any screenshots taken on failure
  
