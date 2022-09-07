@@ -1,0 +1,7 @@
+
+*.json
+*.css
+/node_modules
+/screenshots
+*.pyc
+*.html
